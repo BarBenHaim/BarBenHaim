@@ -2,8 +2,9 @@
 <h3 align="center">Crafting code with creativity and passion</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=barbenhaim&label=Profile%20views&color=ff69b4&style=flat-square" alt="barbenhaim" />
+  <img src="https://komarev.com/ghpvc/?username=barbenhaim&label=👁️%20Profile%20Views&color=ff1493&style=for-the-badge" alt="Profile views" />
 </p>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/233324/120282718-c807fd80-c2c7-11eb-976f-bbecb8a8c4d9.gif" width="600"/>
