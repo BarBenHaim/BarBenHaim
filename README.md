@@ -1,34 +1,4 @@
-<!-- Add background styles -->
-<style>
-  body {
-    background: linear-gradient(135deg, #667eea, #764ba2);
-    color: #fff;
-    font-family: 'Arial', sans-serif;
-  }
-  
-  h1, h3 {
-    margin: 0;
-  }
-  
-  .container {
-    max-width: 800px;
-    margin: auto;
-    text-align: center;
-    padding: 20px;
-    background: rgba(0, 0, 0, 0.5);
-    border-radius: 15px;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
-  }
 
-  .tech-stack img {
-    margin: 10px;
-    transition: transform 0.3s ease;
-  }
-  
-  .tech-stack img:hover {
-    transform: scale(1.2);
-  }
-</style>
 
 <div class="container">
   <h1 align="center">Hello, I'm Bar 👋</h1>
